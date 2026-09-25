@@ -1,6 +1,6 @@
 from pdf2docx import Converter
 
-pdf_file = 'PHASE 3 - Site Development Plan an'
+pdf_file = 'PHASE 3 - Site Development Plan and Investment Program.pdf'
 docx_file = 'airsadprop.docx'
 
 # Convert PDF to Word
